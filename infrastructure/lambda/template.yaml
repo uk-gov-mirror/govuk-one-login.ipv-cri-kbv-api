@@ -301,7 +301,7 @@ Mappings:
     Environment:
       localdev: PublishedVersions
       dev: PublishedVersions
-      build: PublishedVersions
+      build: None
       staging: None
       integration: None
       production: None
